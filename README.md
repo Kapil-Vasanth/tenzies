@@ -1,4 +1,4 @@
-# co5fd4991acd2a6ded9358bb4
+# A Cool Game
 
 Quick start:
 
